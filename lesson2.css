@@ -1,0 +1,76 @@
+.container{
+    background: rgb(66, 64, 64);
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+    position: relative;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
+img{
+    width: 400px;
+    float: inline-end;
+    position: relative;;
+}
+.href{
+    white-space:nowrap;
+    text-align: center;
+  
+}
+
+h1{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+}
+.name{
+position:absolute;
+margin-top: 400px;
+margin-left: 50px;
+word-spacing: 10px;
+line-height: 5px;
+
+}
+
+
+h4{
+    color: rgb(153, 8, 8);
+    text-align: center;
+}
+body{
+    background: rgb(45, 45, 51);
+   
+}
+text{
+text-align: left;
+}
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: grey;
+}
+hr{
+    border-color: grey;
+width: 450px;
+    
+}
+.non{
+    display:flex ;
+    flex-direction: row;
+    gap: 40px;
+}
+a{
+    color: antiquewhite;
+}
+h3{
+    color: antiquewhite;
+}
+h2{
+    color: antiquewhite;
+}
